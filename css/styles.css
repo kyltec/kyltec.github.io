@@ -82,6 +82,12 @@ main > .tagline {
   padding-top: 20px;
 }
 
+.description {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
 .subpage-header {
   color: white;
   text-decoration: none;
@@ -105,8 +111,9 @@ main > .tagline {
   width: 200px;
 }
 
-.sub-pg-img {
-  height: "auto";
-  width: 300px;
-  padding: 20px;
+.title {
+  color: #ffffff;
+  background: #000000;
+  text-align: center;
+  padding-top: 40px;
 }
