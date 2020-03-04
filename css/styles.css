@@ -73,6 +73,7 @@ main > .tagline {
 .container {
   display: flex;
   justify-content: center;
+  padding-bottom: 30px;
 }
 
 .header-container {
@@ -86,7 +87,6 @@ main > .tagline {
   display: flex;
   align-items: center;
   margin-left: 20px;
-  padding-bottom: 30px;
 }
 
 .subpage-header {
