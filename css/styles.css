@@ -108,4 +108,5 @@ main > .tagline {
 .sub-pg-img {
   height: "auto";
   width: 300px;
+  padding: 20px;
 }
