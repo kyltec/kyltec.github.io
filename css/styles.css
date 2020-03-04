@@ -72,7 +72,6 @@ main > .tagline {
 
 .container {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   padding-bottom: 30px;
 }
