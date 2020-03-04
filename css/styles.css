@@ -8,11 +8,27 @@ html {
   html {
     font-size: 14px;
   }
+  .project-img {
+    height: 150px;
+    width: 200px;
+  }
+  .sub-pg-img {
+    height: 250px;
+    width: 300px;
+  }
 }
 
 @media (min-width: 768px) {
   html {
     font-size: 16px;
+  }
+  .project-img {
+    height: 200px;
+    width: 300px;
+  }
+  .sub-pg-img {
+    height: 300px;
+    width: 450px;
   }
 }
 
@@ -20,11 +36,27 @@ html {
   html {
     font-size: 18px;
   }
+  .project-img {
+    height: 300px;
+    width: 350px;
+  }
+  .sub-pg-img {
+    height: 400px;
+    width: 500px;
+  }
 }
 
 @media (min-width: 1200px) {
   html {
     font-size: 20px;
+  }
+  .project-img {
+    height: 400px;
+    width: 400px;
+  }
+  .sub-pg-img {
+    height: 550px;
+    width: 600px;
   }
 }
 
@@ -78,9 +110,4 @@ footer {
 
 .projects {
   margin: 10px;
-}
-
-.project-img {
-  height: 100px;
-  width: 150px;
 }
