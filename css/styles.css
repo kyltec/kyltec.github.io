@@ -71,18 +71,28 @@ main > .tagline {
 }
 
 .container {
-  justify-content: row;
+  display: flex;
+}
+
+.header-container {
+  background: #000000;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
 }
 
 .subpage-header {
   color: white;
   text-decoration: none;
+  font-weight: 600;
+  font-size: 2rem;
 }
 
 .footer-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
+  background: #000000;
 }
 
 .projects {
