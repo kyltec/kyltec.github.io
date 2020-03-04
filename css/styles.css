@@ -70,19 +70,23 @@ main > .tagline {
   height: 2.65rem;
 }
 
+.container {
+  justify-content: row;
+}
+
 .subpage-header {
   color: white;
   text-decoration: none;
 }
 
-footer {
+.footer-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
 .projects {
-  justify-content: space-between;
+  margin: 20px;
 }
 
 .project-img {
