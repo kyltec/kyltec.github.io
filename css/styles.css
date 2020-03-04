@@ -22,10 +22,7 @@ html {
   html {
     font-size: 16px;
   }
-  .project-img {
-    height: 200px;
-    width: 300px;
-  }
+
   .sub-pg-img {
     height: 300px;
     width: 450px;
@@ -36,10 +33,7 @@ html {
   html {
     font-size: 18px;
   }
-  .project-img {
-    height: 300px;
-    width: 350px;
-  }
+
   .sub-pg-img {
     height: 400px;
     width: 500px;
@@ -50,10 +44,7 @@ html {
   html {
     font-size: 20px;
   }
-  .project-img {
-    height: 400px;
-    width: 400px;
-  }
+
   .sub-pg-img {
     height: 550px;
     width: 600px;
