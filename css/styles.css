@@ -22,32 +22,17 @@ html {
   html {
     font-size: 16px;
   }
-
-  .sub-pg-img {
-    height: 300px;
-    width: 450px;
-  }
 }
 
 @media (min-width: 992px) {
   html {
     font-size: 18px;
   }
-
-  .sub-pg-img {
-    height: 400px;
-    width: 500px;
-  }
 }
 
 @media (min-width: 1200px) {
   html {
     font-size: 20px;
-  }
-
-  .sub-pg-img {
-    height: 550px;
-    width: 600px;
   }
 }
 
@@ -93,6 +78,11 @@ main > .tagline {
   height: 2.65rem;
 }
 
+.subpage-header {
+  color: white;
+  text-decoration: none;
+}
+
 footer {
   display: flex;
   flex-direction: column;
@@ -101,4 +91,13 @@ footer {
 
 .projects {
   margin: 10px;
+}
+
+.project-img {
+  height: 150px;
+  width: 200px;
+}
+.sub-pg-img {
+  height: 250px;
+  width: 300px;
 }
