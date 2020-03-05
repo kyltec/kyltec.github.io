@@ -96,6 +96,10 @@ main > .tagline {
   font-size: 2rem;
 }
 
+.sub-pg-img {
+  width: 50%;
+}
+
 .footer-container {
   display: flex;
   flex-direction: column;
@@ -117,4 +121,10 @@ main > .tagline {
   background: #000000;
   text-align: center;
   padding-top: 40px;
+}
+
+.contact-container {
+  background: #000000;
+  color: #ffffff;
+  text-align: center;
 }
